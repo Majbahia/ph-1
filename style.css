@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+}
+.header{
+    background-size: 80%;
+    
+    padding:90px 145px;
+    
+    margin-top:;
+    display: flex;
+    width: 820;
+    
+}
+.header-color{
+    color: aqua;
+}
+.header-title{
+    width: 50%;
+    display: block;
+    padding-top: 50px;
+    
+
+}
+.header-h1{
+    font-size: 50px;
+    font-weight: 400px;
+    border-left: 5px solid #33ff00;
+    padding-left: 10px
+  
+}
+.header-img{
+  width: 372px;
+    height: 490px;
+    margin-left: 80px;
+    padding-bottom: 20px;
+    margin-top: -68px;
+    
+}
+.pera{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 26px;
+    text-align: justify;
+
+}
+.pera-mission{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 22px;
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header-button{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px
+}
+.mission-h2{
+}
+
+h2{
+    font-size: 30px;
+    text-align:left;
+    padding:10px 10px;
+    
+
+}
+.mission-span{
+    color:green;
+}
+.mission-h2{
+    font-size: 40px;
+    text-align:center;
+    padding: 40px;
+ 
+    
+    
+}
+.mission-main{
+    padding: 80px 20px;
+}
+.mission{
+    display: flex;
+    height: 365px;
+    padding: 10px 20px;
+    
+}
+.mision-1{
+    width: 25%;
+    margin-left: 10.5%;
+    margin-right: 2%;
+    padding: 10px;
+    background-color: #E6E6E6;
+    border-radius: 20px
+}
+.vision{
+    width: 25%;
+    padding: 10px;
+        
+    
+    background-color: #fae9e9;
+    border-radius: 20px
+}
+.goals{
+    
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 10.5%;
+  
+    background-color: #F5F1C0;
+    border-radius: 20px
+
+   
+}
+.mission-img{
+    
+    height: 100px;
+    width: 100px;
+    display: block;
+  margin-left: 0;
+  margin-right: auto;
+  padding-left: 15px;
+
+}
+.skill{
+    margin-left: 40px;
+display: flex;
+padding: 20px;
+margin-top: -20px;
+
+overflow: hidden;
+}
+.skill-img{
+    width: 40%;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    background-position: 0px 80px;
+}
+
+.skill-img-resize {
+    height: 425px;
+    width: auto;
+    margin-left: 100px;
+}
+.skill-title{
+    font-size: 30px;
+    margin-right: 100px;
+    margin-left: 180px;
+    padding-top: 55px;
+    margin-bottom: 100px;
+    
+}
+**/
+
+.global{
+    width: 40%;
+    display: flex;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 100pxpx;
+}
+.global-img{
+    width: 40%;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+    background-position: 285px 280px;
+    margin-right: 0px;
+    margin-left: 40px;
+}
+
+.global-img-resize {
+    height: 425px;
+    width: auto;
+    margin-right: 100px;
+}
+.global-title{
+    width: 50%;
+    font-size: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 55px;
+    padding-left: 55px;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+    overflow: hidden;
+    
+}
+.corona-h1{
+text-align: center;
+font-weight: 400px;
+font-size: 50px;
+padding-bottom: 20px;
+margin-bottom: 20px;
+}
+.corona{
+    color: orange;
+
+}
+.half-width{
+    width: 50%;
+}
+.bottom-img{
+    height: auto;
+    width: 600px;
+    margin-left:280px;
+    margin-right: 0px;
+
+}
+.bottom-img-bg{
+
+    background-image: url(images/shapes/shape-3.png);
+    background-position: 190px -70px;
+    background-repeat:no-repeat;
+    background-size: 
+   
+}
+.bottom-apps{
+    display: flex;
+    width: 40%;
+    margin-top: 50px;
+}
+.bottom-title{
+    height:500px;
+    width: 500px;
+    margin-left:10px;
+    margin-right: 100px;
+}
+.footer-bg h2{
+    
+    text-align: center;
+   
+
+}
+.forter-title{
+    
+}
+.footer-bg{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color:blanchedalmond;
+    margin-bottom: 100px;
+}
+.footer-heading{
+
+}
+.small-app{
+    margin-bottom: 13px;
+    margin-left: 145px;
+}
