@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .header{
     background-size: 80%;
@@ -16,7 +19,7 @@ body{
     
 }
 .header-color{
-    color: aqua;
+    color: #e75c75;
 }
 .header-title{
     width: 50%;
@@ -43,14 +46,14 @@ body{
 .pera{
     padding-top: 30px;
     padding-bottom: 20px;
-    font-size: 26px;
+    font-size: 16px;
     text-align: justify;
 
 }
 .pera-mission{
     padding-top: 15px;
     padding-bottom: 15px;
-    font-size: 22px;
+    font-size: 16px;
     text-align: justify;
     padding-left: 15px;
     padding-right: 15px;
@@ -77,7 +80,7 @@ h2{
 
 }
 .mission-span{
-    color:green;
+    color: #e75c75;
 }
 .mission-h2{
     font-size: 40px;
@@ -179,7 +182,7 @@ overflow: hidden;
     background-size: 40%;
     background-repeat: no-repeat;
     padding-bottom: 0px;
-    background-position: 285px 280px;
+    background-position: 290px 290px;
     margin-right: 0px;
     margin-left: 40px;
 }
@@ -201,53 +204,99 @@ overflow: hidden;
     overflow: hidden;
     
 }
-.corona-h1{
-text-align: center;
-font-weight: 400px;
-font-size: 50px;
-padding-bottom: 20px;
-margin-bottom: 20px;
-}
-.corona{
-    color: orange;
+.blog-bottom{
+
+    text-align: center;
+    font-weight: 400px;
+    font-size: 30px;
+    
 
 }
-.half-width{
-    width: 50%;
-}
-.bottom-img{
-    height: auto;
-    width: 600px;
-    margin-left:280px;
-    margin-right: 0px;
+.blog-bottom-2{
+
+    text-align: center;
+    font-weight: 400px;
+    font-size: 30px;
+    color: #ffad5a;
+    
 
 }
-.bottom-img-bg{
-
-    background-image: url(images/shapes/shape-3.png);
-    background-position: 190px -70px;
-    background-repeat:no-repeat;
-    background-size: 
-   
-}
-.bottom-apps{
+.flexibility-display{
     display: flex;
-    width: 40%;
-    margin-top: 50px;
 }
-.bottom-title{
-    height:500px;
-    width: 500px;
-    margin-left:10px;
-    margin-right: 100px;
+.blog-main{
+    padding-left: 5px;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
 }
+.blog-1{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 1px solid #BFBFBF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5%;
+    
+    
+
+}
+.blog-2{
+    padding: 10px;
+    border: 1px solid #BFBFBF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5%;
+    
+}
+.blog-3{
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #BFBFBF;
+    box-shadow: azure;
+    border-radius: 5%;
+    
+}
+.blg-img-resize{
+    height: 240px;
+    width: 400px;
+    padding:10px 0px;
+}
+.blg-h2{
+    font-size: 25px;
+    text-align:left;
+    padding:10px 0px;
+}
+.blg-more{
+    text-decoration: none;
+    margin:20px 0px;
+    padding: 20px 0px;
+
+}
+.arro-sign{
+    height: 20px;
+    width: 20px;
+    padding-top: 6px;
+    margin-top: 7px;
+    text-anchor:;
+}
+
 .footer-bg h2{
     
     text-align: center;
    
 
 }
-.forter-title{
+.footer-title{
+    color: white;
+font-family: 'Moon Dance';
+font-size: 40px;
+font-weight: bold;
     
 }
 .footer-bg{
@@ -255,10 +304,18 @@ margin-bottom: 20px;
     background-color: black;
     text-align: center;
     color:blanchedalmond;
-    margin-bottom: 100px;
+    margin-bottom: 5px;
+    padding: 50px;
 }
 .footer-heading{
+    color: #d73a3a;
+    font-weight: bold;
 
+}
+.footer-pera{
+    font-family: 'Poppins', sans-serif;
+    color: #cdc8c8;
+    padding-top: 25px;
 }
 .small-app{
     margin-bottom: 13px;
