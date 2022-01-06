@@ -8,10 +8,13 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+/* =======  Header parts========= */
+
 .header{
     background-size: 80%;
     
-    padding:90px 145px;
+    padding:0px 145px;
     
     margin-top:;
     display: flex;
@@ -69,6 +72,7 @@ body{
   font-size: 16px;
   border-radius: 25px
 }
+/* =======  Mission Parts  ========= */
 .mission-h2{
 }
 
@@ -91,7 +95,7 @@ h2{
     
 }
 .mission-main{
-    padding: 80px 20px;
+    padding: 0px 20px;
 }
 .mission{
     display: flex;
@@ -136,11 +140,14 @@ h2{
   padding-left: 15px;
 
 }
+
+/* =======  Skill parts ========= */
+
 .skill{
-    margin-left: 40px;
+margin-left: 40px;
 display: flex;
 padding: 20px;
-margin-top: -20px;
+margin-top: 45px;
 
 overflow: hidden;
 }
@@ -167,12 +174,12 @@ overflow: hidden;
     
 }
 **/
-
+/* =======  Global parts  ========= */
 .global{
     width: 40%;
     display: flex;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 100px;
     margin-bottom: 100pxpx;
 }
@@ -204,6 +211,9 @@ overflow: hidden;
     overflow: hidden;
     
 }
+
+/* =======  Blog Parts ========= */
+
 .blog-bottom{
 
     text-align: center;
@@ -211,6 +221,9 @@ overflow: hidden;
     font-size: 30px;
     
 
+}
+.blg-bottom-1{
+    color: gray;
 }
 .blog-bottom-2{
 
@@ -274,7 +287,7 @@ overflow: hidden;
 }
 .blg-more{
     text-decoration: none;
-    margin:20px 0px;
+    margin:18px 0px;
     padding: 20px 0px;
 
 }
@@ -285,6 +298,8 @@ overflow: hidden;
     margin-top: 7px;
     text-anchor:;
 }
+
+/* =======  Footer Parts ========= */
 
 .footer-bg h2{
     
